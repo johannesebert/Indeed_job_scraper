@@ -122,11 +122,11 @@ The best result brought the KNeighborsClassifier. But the difference are minimal
 Below some results of the classifier: 
 
 <p align="center">
-<img src="images/KNeighborsClassifier(leaf_size=5, metric='manhattan', n_neighbors=50,?                     weights='distance')roc.png" width="50%" height="50%">
+<img src="images/KNeighborsClassifier(leaf_size=5, metric='manhattan', n_neighbors=50,weights='distance')roc.png" width="50%" height="50%">
 </p>
 
 <p align="center">
-<img src="KNeighborsClassifier(leaf_size=5, metric='manhattan', n_neighbors=50,?                     weights='distance')prc.png" width="50%" height="50%">
+<img src="KNeighborsClassifier(leaf_size=5, metric='manhattan', n_neighbors=50,weights='distance')prc.png" width="50%" height="50%">
 </p>
 
 ## Libraries used 
