@@ -129,7 +129,6 @@ Below some results of the classifier:
 <img src="KNeighborsClassifier(leaf_size=5, metric='manhattan', n_neighbors=50,weights='distance')prc.png" width="50%" height="50%">
 </p>
 
-
 ## Libraries used 
 -	Pandas
 -	NumPy
